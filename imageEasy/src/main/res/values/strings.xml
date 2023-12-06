@@ -1,0 +1,17 @@
+<resources>
+    <string name="selection_limiter">Can\'t select more than %d items.</string>
+    <string name="bottom_message_without_video">Drag images up for gallery</string>
+    <string name="imageeasy_bottom_message_with_only_video">Drag videos up for gallery</string>
+    <string name="bottom_message_with_video">Hold for video, tap for photo</string>
+    <string name="imageeasy_ok">OK</string>
+    <string name="imageeasy_tap_to_select">Tap photo to select</string>
+    <string name="imageeasy_selected">Selected</string>
+    <string name="imageeasy_recent">Recent</string>
+    <string name="imageeasy_last_month">Last Month</string>
+    <string name="imageeasy_last_week">Last Week</string>
+    <string name="imageeasy_counter_number">0:00</string>
+    <!-- content descriptions -->
+    <string name="click_button">click button</string>
+    <string name="camera_flash_button">camera flash button</string>
+    <string name="lens_facing_button">lens facing button</string>
+</resources>
