@@ -111,14 +111,3 @@ include in app level build.gradle
 ```groovy
  implementation 'com.github.YudizAndroidPiyush:image-easy:1.0.1'
 ```
-
-or Maven:
-
-or ivy:
-
-```xml
-
-<dependency name='imageEasyimagepicker' org='com.yudiz.easy' rev='1.0.1'>
-    <artifact name='ImageEasy' ext='pom'></artifact>
-</dependency>
-```
