@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ImageEasyX</string>
+    <string name="app_name">ImageEasy</string>
     <string name="fragment_implementation_sample">Fragment Implementation Sample</string>
     <string name="nav_controller_implementation_sample">NavController Implementation Sample</string>
     <string name="viewpager2_implementation_sample">ViewPager2 Implementation Sample</string>
