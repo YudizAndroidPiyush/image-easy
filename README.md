@@ -104,30 +104,21 @@ include in app level build.gradle
  ```groovy
  repositories {
     mavenCentral()
+    maven { url "https://jitpack.io" }
 }
  ```
 
 ```groovy
- implementation 'com.yudiz.easy:imageEasyimagepicker:1.6.3'
+ implementation 'com.github.YudizAndroidPiyush:image-easy:1.0.1'
 ```
 
 or Maven:
-
-```xml
-
-<dependency>
-    <groupId>com.yudiz.easy</groupId>
-    <artifactId>imageEasyimagepicker</artifactId>
-    <version>1.0.0</version>
-    <type>pom</type>
-</dependency>
-```
 
 or ivy:
 
 ```xml
 
-<dependency name='imageEasyimagepicker' org='com.yudiz.easy' rev='1.0.0'>
+<dependency name='imageEasyimagepicker' org='com.yudiz.easy' rev='1.0.1'>
     <artifact name='ImageEasy' ext='pom'></artifact>
 </dependency>
 ```
